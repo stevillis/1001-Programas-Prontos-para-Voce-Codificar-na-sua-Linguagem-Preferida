@@ -1,2 +1,2 @@
 # 1001 Programas Prontos para Você Codificar na sua Linguagem Preferida
-Algoritmos do livro "1001 Programas Prontos para Você Codificar na sua Linguagem Preferida", do professor Mario Leite, implementados em C, Java, Python e JavaScript.
+Algoritmos do livro "1001 Programas Prontos para Você Codificar na sua Linguagem Preferida", do professor Mario Leite, implementados em Portugol (VisualG 3.0 e Portugol Studio), C, Java, Python 3 e JavaScript.
